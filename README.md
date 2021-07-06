@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manasa
 - 👀 I’m interested in Logic Building (JavaScript)
-- 🌱 I’m currently learning Fornt-end technologies (MERN stack) 
+- 🌱 I’m currently learning Web Dev technologies (MERN stack) 
 - 💞️ I’m looking to collaborate on JavaScript coding challenges and CSS wars.
 - 📫 How to reach me - through email - @manasaveenapatel@gmail.com
 
